@@ -118,29 +118,7 @@
 
 **Estratégia recomendada:** Mistura de ambos para maximizar receita total.
 
----
-
-##  Sistema de Créditos (Opcional)
-
-### Para Revendedores de Alto Volume
-
-**Pacote de Créditos:**
-- **100 créditos:** R$ 1.200,00 (R$ 12,00/crédito)
-- **250 créditos:** R$ 2.750,00 (R$ 11,00/crédito) - **8% desconto**
-- **500 créditos:** R$ 5.000,00 (R$ 10,00/crédito) - **17% desconto**
-- **1000 créditos:** R$ 9.000,00 (R$ 9,00/crédito) - **25% desconto**
-
-**Conversão:**
-- 1 dia = 1 crédito
-- 7 dias = 3 créditos
-- 30 dias = 10 créditos
-
-**Vantagens:**
-- Flexibilidade para revendedor
-- Desconto adicional por volume
-- Facilita gestão de estoque
-
----
+--
 
 ##  Descontos Adicionais
 
@@ -186,7 +164,7 @@
 
 ---
 
-## 💡 Estratégia de Preços Recomendada
+##  Estratégia de Preços Recomendada
 
 ### Distribuição Ideal
 
@@ -212,6 +190,3 @@
 | Receita mensal estimada | R$ 30.000 - R$ 40.000 |
 
 ---
-
-**Última atualização:** 2024
-**Versão:** 1.0
