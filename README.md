@@ -104,7 +104,7 @@
 
 ---
 
-## 📈 Comparação de Margens
+##  Comparação de Margens
 
 ### Venda Direta vs Revendedor
 
